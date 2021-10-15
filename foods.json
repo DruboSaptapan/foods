@@ -14,7 +14,7 @@
         "name": "Pork Tenderloin with Quinoa Pilaf",
         "category": "dinner",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$8.99"
+        "price": "$8.99"
     },
     {
         "_id": "6168306fa5efcedee12def82",
@@ -22,7 +22,7 @@
         "name": "Breakfast Sandwich",
         "category": "breakfast",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$9.99"
+        "price": "$9.99"
     },
     {
         "_id": "616859e9060b3ad21a05a459",
@@ -30,7 +30,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "6168306fb2eeba72ca44d978",
@@ -38,7 +38,7 @@
         "name": "Eggs Benedict",
         "category": "breakfast",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$8.99"
+        "price": "$8.99"
     },
     {
         "_id": "6168306f1a1de958ad06aec3",
@@ -46,7 +46,7 @@
         "name": "Toast Croissant Fried Egg",
         "category": "breakfast",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$19.99"
+        "price": "$19.99"
     },
     {
         "_id": "616859e96ab11fcbcbc1c36f",
@@ -54,7 +54,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "616855b62f833d1cf1264c69",
@@ -62,7 +62,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "breakfast",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     
     {
@@ -71,7 +71,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "616859e9b40a1f78dfde1f40",
@@ -79,7 +79,7 @@
         "name": "Salmon With GrapeFruit and Lentil Salad",
         "category": "dinner",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$5.99"
+        "price": "$5.99"
     },
     {
         "_id": "616859e9dcbcc7714dedfa77",
@@ -87,7 +87,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "616859e92b58654f27803e35",
@@ -95,7 +95,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "616859e93422b4bd85590fc7",
@@ -103,7 +103,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch French fries with cheese",
         "category": "dinner",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "616859e9bfa58aceb4e51d6f",
@@ -111,7 +111,7 @@
         "name": "Full Breakfast Fried Egg Toast Brunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "6168306ff2ccc39508a954b5",
@@ -119,7 +119,7 @@
         "name": "Baked Chicken",
         "category": "breakfast",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$10.99"
+        "price": "$10.99"
     },
     {
         "_id": "616859e956c911a96261154a",
@@ -127,7 +127,7 @@
         "name": "Garlic butter baked salmon",
         "category": "dinner",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$8.99"
+        "price": "$8.99"
     },
     {
         "_id": "616859e9c025cb55a1a23aeb",
@@ -135,7 +135,7 @@
         "name": "Lemon Salmon Piccata",
         "category": "dinner",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     },
     {
         "_id": "616859e9be75f02a6b195a0a",
@@ -143,6 +143,6 @@
         "name": "Baked Chicken",
         "category": "dinner",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
-        "balance": "$3.99"
+        "price": "$3.99"
     }
 ]
