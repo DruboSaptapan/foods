@@ -51,7 +51,7 @@
     {
         "_id": "616859e96ab11fcbcbc1c36f",
         "picture": "https://i.postimg.cc/qRNZFyds/lunch1.png",
-        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "name": "Healthy Meal Plan",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
         "price": "$3.99"
@@ -84,7 +84,7 @@
     {
         "_id": "616859e9dcbcc7714dedfa77",
         "picture": "https://i.postimg.cc/RCnDQ7d9/lunch4.png",
-        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "name": "Indian lunch",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
         "price": "$3.99"
@@ -92,7 +92,7 @@
     {
         "_id": "616859e92b58654f27803e35",
         "picture": "https://i.postimg.cc/rmwfrWm6/lunch5.png",
-        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "name": "Beef Steak",
         "category": "lunch",
         "description": "Hello, Frost Faulkner! You have 7 unread messages.",
         "price": "$3.99"
